@@ -1,9 +1,7 @@
-# Complete Guide to Node Authentication
+# Senior Design project for UCF fall 2015 - Spring 2016 
 
-Code for the entire scotch.io tutorial series: Complete Guide to Node Authentication
-
-We will be using Passport to authenticate users locally, with Facebook, Twitter, and Google.
-
+Developing a Api to control doors and lights fixtures for the City of Orlando.
+Communication will be made over wifi using sockets, utilization of queues for restrinction of four items being raised or lowered at a time, communication with microcontroller will be made using jhonny-five.js.
 
 
 
